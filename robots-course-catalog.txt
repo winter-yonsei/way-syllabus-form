@@ -1,0 +1,14 @@
+# robots.txt for WAY/YISS Course Catalog
+# Allow search engines to index course information
+
+User-agent: *
+Allow: /
+
+# Allow all course pages
+Allow: /*.html
+
+# Sitemap (optional - create if you have one)
+# Sitemap: https://winter-yonsei.github.io/way-courses/sitemap.xml
+
+# Cache policy
+# Crawl-delay: 1
